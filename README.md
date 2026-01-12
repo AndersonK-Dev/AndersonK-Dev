@@ -40,7 +40,7 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 
 ### 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinchuga)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kevin.chuga@outlook.com)
 
 ---
 *“Siempre buscando innovar y superar desafíos tecnológicos con soluciones eficientes.”*

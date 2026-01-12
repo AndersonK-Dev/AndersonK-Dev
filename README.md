@@ -19,9 +19,12 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 ### 📊 Actividad en GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonK-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=dark" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AndersonK-Dev&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 > **Nota:** Si las estadísticas no cargan, es debido a la reciente creación del perfil. Se actualizarán automáticamente conforme realices más commits.
 

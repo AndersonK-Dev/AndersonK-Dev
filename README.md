@@ -16,7 +16,7 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas de GitHub
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonK-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=tokyonight"/>

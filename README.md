@@ -18,8 +18,8 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 
 ### 📊 Estadísticas de GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonK-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 
 ### 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinchuga)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:kevin.chuga@outlook.com)
 
 ---
 *“Siempre buscando innovar y superar desafíos tecnológicos con soluciones eficientes.”*

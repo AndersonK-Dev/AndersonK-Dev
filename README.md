@@ -15,7 +15,7 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
 | **Data & Analytics** | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) |
 
 ---
-
+<!--
 ### 📊 Actividad en GitHub
 
 <p align="left">
@@ -24,11 +24,18 @@ Soy un apasionado por la construcción de soluciones robustas y escalables. Mi e
   <img height="180em"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=dark&hide_border=true" />
 </p>
+### 📊 Actividad en GitHub
 
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonK-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonK-Dev&layout=compact&theme=dark" />
+  
+</p>
 
 > **Nota:** Si las estadísticas no cargan, es debido a la reciente creación del perfil. Se actualizarán automáticamente conforme realices más commits.
 
 ---
+-->
 
 ### 💼 Experiencia Destacada
 

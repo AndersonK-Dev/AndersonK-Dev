@@ -1,39 +1,43 @@
-### ¡Hola! Soy Kevin Anderson 👋
+# ¡Hola! Soy Kevin Anderson 👋
 
-Soy **Ingeniero en Ciencias de la Computación** apasionado por el desarrollo de software y la inteligencia de datos. Me especializo en crear soluciones robustas y escalables, combinando el desarrollo backend con interfaces modernas.
+### Ingeniero en Ciencias de la Computación | Full Stack Developer | Data Analyst
 
----
-
-🛠 **Tech Stack & Herramientas**
-
-**Frontend & Modern Web:**
-* ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) **React** & **Next.js**
-* ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) **TypeScript**
-* ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) **Tailwind CSS**
-
-**Backend & Ecosistema Microsoft:**
-* ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) **C#** (.NET)
-* ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) **Node.js**
-* ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) **Microsoft Azure**
-
-**Datos & Analytics:**
-* ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) **SQL Server / PostgreSQL**
-* ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI / Databricks**
+Soy un apasionado por la construcción de soluciones robustas y escalables. Mi enfoque combina la precisión del **desarrollo backend en .NET** con la agilidad de interfaces modernas en **React**, complementado con un profundo análisis estratégico de datos.
 
 ---
 
-💼 **Experiencia Destacada**
+### 🚀 Mi "Tech Stack" & Herramientas
 
-* [cite_start]**Global Finances Software:** Desarrollo de soluciones en C#, optimización de consultas SQL y creación de APIs[cite: 11, 14, 21].
-* [cite_start]**Seguros Equinoccial:** Migración de datos (Netezza a Databricks) y diseño de tableros avanzados en Power BI[cite: 28, 31, 33].
-
-🌱 **Actualmente**
-* Profundizando en arquitecturas modernas con **Next.js** y **TypeScript**.
-* Explorando mejores prácticas en **React** y **Node.js**.
-
-📫 **Conecta conmigo**
-* [cite_start][LinkedIn](https://www.linkedin.com/in/kevinchuga) 
-* [cite_start][Email](mailto:kevin.chuga@outlook.com) 
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend & Web** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend & Cloud** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) |
+| **Data & Analytics** | ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?logo=power-bi&logoColor=black) ![Databricks](https://img.shields.io/badge/-Databricks-FF3621?logo=databricks&logoColor=white) |
 
 ---
-⭐️ *Gracias por visitar. ¡Siempre buscando innovar y superar desafíos tecnológicos!* [cite: 9]
+
+### 📊 Estadísticas de GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 💼 Experiencia Destacada
+
+* **Global Finances Software:** Desarrollo de soluciones en C#, optimización de consultas SQL complejas y diseño de arquitecturas API REST escalables.
+* **Seguros Equinoccial:** Liderazgo en procesos de migración de datos (Netezza a Databricks) y creación de dashboards estratégicos en Power BI para la toma de decisiones.
+
+---
+
+### 🌱 Actualmente estoy...
+* 🔭 Profundizando en arquitecturas de **Microservicios** y mejores prácticas en **Next.js**.
+* ⚡ Explorando la automatización avanzada de procesos y la optimización de motores de bases de datos.
+
+### 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinchuga)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:tu-correo@ejemplo.com)
+
+---
+*“Siempre buscando innovar y superar desafíos tecnológicos con soluciones eficientes.”*
